@@ -1,2 +1,1 @@
-# impressum
-Netresearch DTT GmbH Impressum
+https://www.netresearch.de/impressum/
